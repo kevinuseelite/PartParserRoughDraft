@@ -1,0 +1,12 @@
+
+
+'''
+ for y in v.first_ext[x]:
+            #strips the unicode from all the entries 
+            v.first_ext[x][y] = v.first_ext[x][y].replace('\u274f', '')
+            #strips any remaining spaces
+            v.first_ext[x][y] = v.first_ext[x][y].replace(' ', '')
+            if v.first_ext[x][y].startswith('*') or v.first_ext[x][y].startswith('(') or v.first_ext[x][y].endswith('*') or v.first_ext[x][y] == 'nan':
+                v.first_ext[x][y] = ''
+                
+                '''

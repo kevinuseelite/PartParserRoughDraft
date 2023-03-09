@@ -1,0 +1,310 @@
+Page 1
+----------------------------------------------------------------------------------------------------Due to the changes of constant improvement in LED technology, all details are 
+subject to change without notice. Consult factory for up to date information. www.iuseelite.comBy Elite Lighting
+REFLECTOR
+COLORS
+FLANGE
+COLORS
+EMERGENCYLUMENS
+DIMMINGCCT & DYNAMICPLATFORMS
+COLOR QUALITYCRI
+LIFETIMEDISTRIBUTIONS
+TRIM OPTIONS
+PHOTOMETRIC TESTS
+* Only Available on 85+ CRI
+ND: Narrow MD: Medium WD: Wide
+Candlepower Distribution Curve Candlepower Distribution Curve Candlepower Distribution CurveCL-WH CL-SCH SHZ-WH SHZ-SHZ WT-WH W-WH MB-WHREFLECTOR/
+FLANGE COLORS
+CL-BK
+ MB-BK
+Based on 4000K, 90+CRI with semi-specular chrome reflector.
+Actual wattage may vary +/-5%
+Reference IES files for additional distribution curve information.
+RS190627/NS190711/ BB190711
+FEATURES
+A highly sustainable and ultra-efficient architectural LED downlight 
+that provides even, glare-free illumination. Available in a range of finishes, distributions, and lumen packages, it is ideally suited for use in corporate office space, hospitality, healthcare, commercial, academic, churches and retail.
+OPTICS AND REFLECTOR
+The reflector has a 45
+o visual cutoff, and is shipped standard with 
+a Solite lens in a smooth frosted finish. Spun from 0.05” thick aluminum, with a 1-step anodized finish, and available in different  colors or custom RAL finishes. Reflector flange options include self-flanged and white painted flange. Various distribution options are available, and all optics are field changeable.
+ 900, 1200, 1500
+CL (Semi-Specular Chrome), MB (Black), SHZ (Low 
+Iridescent Satin Haze), WH (White)
+Self-Flanged WH (White), SCH (Semi-Specular Chrome),
+ 
+SHZ (Low Iridescent Satin Haze), BK (Black)
+10W - Up to 1000L Output ( Bodine BSL310 )
+20W - Up to 2000L Output ( Bodine BSL20 ) 0-10V Flicker Free 1% Dimming Standard (DIM10), LUTH, 
+LUTFTB, LUT2W, ELDO10.1, ELDODMX.1, ELDODALI.1, DIMTR22K, 27K, 30K, 35K, 40K, 50K, Tunable White, Dims to 
+Warm, R GB + White
+2 Step MacAdam Ellipse90+ Standard, 98+ Optional
+L70 at 102,000 HoursWD (Wide Distribution), MD (Medium Distribution) 
+and ND (Narrow Distribution)
+Adjustable, Wall Wash
+In Accordance with IES LM79-08, LM80 and TM-30, 
+TM-214”4” Architectural High Lumen LED Downlight - Adjustable/Wall WashHH4ADJ-IC-LED
+NOMINAL LUMENS DELIVERED LUMENS WATTAGE
+1500 1699 20W
+1200 1341 16W 
+900 995 12W HH4ADJ-4555
+Flanged Downlight
+90o-45o
+A: Height =  5-7/8”
+B: Trim Aperture = 4-1/8”C: Cut-Out = 4-3/8”D: Trim Outside Dia = 5-3/8”E: Width = 13-1/8”F : Length = 13-1/8”
+1 3000 Lumens is not ENERGY STAR certifiedPage 2
+----------------------------------------------------------------------------------------------------By Elite Lighting
+Due to the changes of constant improvement in LED technology, all details are 
+subject to change without notice. Consult factory for up to date information. www.iuseelite.comLED DYNAMIC PLATFORM OPTIONS
+Tunable White with Smart White Technology utilizing the 
+Lumenetix Platform allows you to color tune the luminaire 
+via various controls. Create the perfect environment for the desired use of the space, while maintaining a CRI of 90+ across the tunable range of 8000 to 1650K. (Click here for more details)
+Dims to Warm with Smart Dimming Technology. At 100% full brightness the luminaire is at 3000K. When dimmed 
+to 1%, the light transitions to 1800K, creating a warm ambiance within the space. (Click here for more details)
+RGB+White with Smart Hue Technology provides full color mixing of RGB and white colors. Utilizing the Lumenetix 
+Platform allows you to choose from unlimited RGB color options, via various controls. Ideal for Circadian Rhythm applications or to create the perfect human centric environment. (Click here for more details)LISTINGS
+c-UL-us - Listed for Feed Through Wiring.
+U.S Patent No. - D685,118S
+Energy Star and California Title 24 compliantOptional Black color trim is not ENERGYSTAR certified and won’t meet therequirement.THERMAL MANAGEMENT SYSTEM
+Passive cooling Diecast Aluminum Heat Sink, LED light engine and driver are replaceable, upgradeable, and can be accessed from below the ceiling. The consistency in the quality of light is delivered with precision performance by the use of a unique locking mechanism that aligns the reflector with the light engine.  
+MOUNTING FRAME & BRACKETS
+Has full adjustable aiming capability, allowing the double gimbal mechanism to rotate 360
+o, pivot 90o, and lock into place at any desired 
+position.
+DRIVER ELECTRICAL INFORMATION
+The LED driver is rated for 50 to 60Hz at 120V/277V, also available in 347V  input, produces less than 20%THD, has a power factor between 90% and 100%, and is thermally protected for additional safety. Junction box and Driver can be accessed from below the ceiling and above the ceiling. Junction Box is Listed for through branch circuit wiring.
+DIMMING & DRIVER INFORMATION
+DIM10  - 0-10V dimming on either MVOLT 120, 277 or 347V. Dimmable down 
+to 1% of initial lumens, standard.DIMTR  - Triac & Electronic low voltage dimming. Available in 120V, and up 
+to 3000 lumens only.LUT2W  - Lutron LTEA2W Hi-Lume 1%. 2-wire LED Driver Forward Phase 
+Control, 1% dimming in 120V only. LUTH  - Lutron LDE1 Hi-Lume Eco System. 1% dimming with Soft in Fade to 
+Black dimming technology.LUTFB - Lutron PEQ0 Hi-Lume Premier Eco System. 0.1% dimming with Soft in Fade to Black dimming technology. Available on all luminaires up to 20 watts.ELDO10.1  - EldoLED SoloDrive 0-10V. Dimming down to 0.1%. 
+DALI  - DALI DT6, DT8 dimming down to 1%. 
+ELDODMX  - EldoLED PowerDrive dimming down to 0.1%. 
+Please see EldoLED website for wiring diagrams and a list of compatible DMX and DALI control systems.
+WARRANTY
+Five-year warranty for parts and components. (Labor not included)4”HH4ADJ-IC-LED
+4” Architectural High Lumen LED Downlight - Adjustable/Wall Wash
+Example: HH4ADJ-IC-LED-1500L-DIM10-MVOLT-MD-40K-85-HH4-4501-CL-WH
+SERIES LUMENS DRIVER VOLTAGE CCT EMERGENCY TRIM TYPE REFLECTOR/FLANGE COLORS
+HH4ADJ-IC-LED 
+* 900L
+
+* 1200L
+
+* 1500L
+* DIM10
+
+*DIMTR 1 
+
+*LUTH 2
+
+*LUT2W 1 
+
+*LUTFTB 6
+
+*ELDO10-.1 2
+
+*ELDODALI-.1 2
+
+* ELDODMX-.1 2
+*120
+
+*277
+
+*MVOLT
+
+*347
+(DIM10 only)
+*22K
+
+*27K
+
+*30K
+
+*35K
+
+*40K
+
+*50K 3
+*EMG-LED-10W
+
+*EMG-LED-20W
+Typical lumen output of the luminaire is up to 1000L 
+with EMG-LED-10W option & 2000L with EMG-LED-20W option  in emergency mode. Contact the factory for details.Remote mounted installation
+*HH4ADJ-4555 
+*CL-WH
+
+*CL-SCH
+
+*SHZ-WH
+
+*SHZ-SHZ
+
+*WT-WH
+
+*WH-WH
+
+*MB-WH*
+
+*CL-BK
+
+*MB-BK*
+* Black color trim is not ENERGYSTAR 
+certifiedOPTICS CRI
+
+*WD
+
+*MD
+
+*ND
+*90+
+
+*98+4
+1 DIMTR and LUT2W are available in 120V only       2 LUTH, ELDO10-.1, ELDODALI-.1, and ELDODMX-.1 are available in 120V and 277V            3 50K series are available with 85+ CRI only
+4 98+ CRI is available in 27K, 30K and 40K only         5 3000 Lumens is not energy Star certified6 LUTFTB Available for luminaires up to 1500L       * Only Available on 85+ CRI
+-Reference last page for Control Options
+Page 3
+----------------------------------------------------------------------------------------------------By Elite Lighting
+Due to the changes of constant improvement in LED technology, all details are 
+subject to change without notice. Consult factory for up to date information. www.iuseelite.com
+1- Luminaire will be shipped with Powerpacks pre-installed, ready to be integrated to designated contol systems
+2- Luminaire will be shipped with Sensors installed on the luminaire, allowing for individual luminaire control. Luminaires will be ready to be integrated with 
+designated control systems
+3- Luminaire will be shipped with Sensors to be remotely installed on the ceiling. Luminaires will be ready to be integrated with designated control systems
+BRAND
+CONTROL UNITo  LEDRU                                                          
+LED Relay Zone 
+Controller 0-10V 1o FCJS-010                                             
+Lutron Vive 0-10V Individual 
+Pow Pak (Luminare is 
+shipped Vive Enabled) 1 4
+o CU-4E-FMH                                                
+Fixture Mount Control 
+Unit 1 5o ZL027 –N0W                                                   
+Intellect Power Control 
+Module 1 6o EN-WCM2-ZB-DR                                                  
+Wireless Control Module 1 7
+o SBR -BS                                                     
+Xitanium SR 
+Bridge 1 8o LMFC-011                                                  
+ON/OFF/0-10V dimming 
+fixture controller 1 9o EN- ALC-ZB-BK-DR                                                     
+Wireless Area Lighting 
+Control Module 1 7
+o  LEDDU                                                          
+LED Zone Controller 
+0-10V 1o FCJS-ECO                                              
+Lutron Vive Eco-system Pow 
+Pak (Luminare is shipped Vive 
+Enabled) 1 4o ZL027 –N0W                                                   
+Intellect Power Control 
+Module 1 6o ZBHA-CLM-DIM-ENC                                                
+Connected Lighting 
+Module DIM 1 7
+INTEGRAT 
+SENSORN/A N/A N/A N/A N/A N/A N/A
+ *WIRELESS 
+OCCUPANCY 
+SENSORo EOSCU-W-EO                                          
+Occupancy Sensor 
+- Ceiling Mounted
+(Must be specified 
+with LEDRU or 
+LEDDU control 
+unit) 3N/A N/A N/A N/A N/Ao LMDC-100                                                       
+Dual technology PIR 
+Ceiling Mount Occupancy 
+Sensor 3
+ *WIRELESS 
+DAYLIGHT 
+SENSORo ELLSU-W-EO                                             
+Light Level Sensor - 
+Ceiling Mounted
+(Must be specified 
+with LEDRU or 
+LEDDU control 
+unit) 3N/A N/A N/A N/A N/Ao LMLS-400                                                               
+Single zone switching 
+and dimming digital 
+photosensor 3
+*WIRELESS 
+OCCUPANCY 
+& DAYLIGHT 
+SENSORN/A N/Ao SU-5E-IoT
+IoT Node Micro Sensor 3
+o SU-5E-CL
+Connected Lighting     
+Micro Sensor  3
+o SU-5E-IL
+ Independent Lighting /
+Enlighted One Micro 
+Sensor 3     
+o SU-5S-H-(IoT/CL/IL)                                       
+Surface Mount Sensor 3
+(Must be specified with CU-
+4E-FMH Control Unit) o ZL00J -T0W                                                   
+Intellect Intelligent Fixture 
+Control System 3
+(Must be specified with 
+ZL027 –N0W Control Unit)o EN-CLM-PIR-DD-ZB                                                  
+SensiLUM™ Wireless 
+Integrated Sensor
+o EN-SCPPH-1500-ZB                                      
+Wireless Passive Infrared 
+Occupancy and Photo 
+Sensors 3
+(Must be specified with 
+EN-WCM2-ZB-DR or EN- 
+ALC-ZB-BK-DR  Control 
+Unit)o SNS200-
+CMP                                                       
+SNS200 for 
+grouping  3N/A
+ACCESORIES N/A N/Ao TMC-SU-5E
+Tile Mount Carrier
+o CBL-5E-CU4-30N 
+30 inch Sensor Cable for 
+CU-4 and IoT ReadyTM 
+drivers
+o CBL-5E-CU4-7F 
+7 foot Sensor Cable for 
+CU-4 and IoT ReadyTM 
+driversN/A N/A N/A N/A
+NOTES N/A4- Luminaire will be 
+compatible with Lutron 
+LRF2-OCR2B-P-WH Ceiling 
+mount360° occupancy/va -
+cancy sensor & LRF2-DCRB-
+WH Ceiling-mount daylight 
+sensor.  Sensors must be 
+ordered through Lutron.5- Luminaire will 
+be compatible with 
+ENLIGHTED SU-5E-IoT, 
+SU-5E-CL, SU-5E-IL, SU-
+5S-H, Sensors.  6-Luminaire will be 
+compatible with 
+Leviton Intellect 
+App & Keypad 
+Room Controller7-Luminaire will be 
+compatible with 
+EN-SCPPH-1500-ZB 
+Wireless Passive 
+Infrared Occupancy 
+and Photo Sensors8-Luminaire 
+will be 
+compatible 
+with  Philips 
+field and  
+wireless 
+switch.9-Luminaire will be 
+compatiable with 
+DLM Room  control 
+system LMPB-100. 
+DLM control system  
+must be orderd 
+through Legrand.
+WATTSTOPPER®
+EasySense
+4”HH4ADJ-LED
+4” Architectural High Lumen LED Downlight  - Adjustable/Wall Wash

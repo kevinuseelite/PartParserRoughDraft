@@ -1,0 +1,4 @@
+partnumber.cz7haxuvz9yz.us-west-2.rds.amazonaws.com
+partnumber
+Part_destroyer123
+
